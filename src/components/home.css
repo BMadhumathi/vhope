@@ -1,0 +1,42 @@
+/* .img{
+    
+        background-image: url(children.jpg);
+        padding: 20px;
+        margin: 0;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:cover;
+        background-position: center center;
+        height: 100%;
+        
+       
+    
+} */
+body{
+        background-color: black;
+}
+.img{
+        background: url("children.jpg");
+        background-attachment: fixed;
+        background-size:cover; 
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 900px;
+    }
+    
+.sub-title{
+                color: aliceblue;
+                padding: 100px;
+                margin-left: 80px;
+}
+.Vision{
+        padding: 20px;
+        color: white;
+        background-color: black;
+        margin-left: 80px;
+        width: 500px;  
+        overflow: hidden;  
+        margin: 20 0 0 450px;  
+        border: 2px solid black;
+        border-radius: 15px ; 
+      }
